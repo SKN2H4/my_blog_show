@@ -1,2 +1,2 @@
-http://example.com/2026/03/22/test/
-http://example.com/
+https://vin-land.netlify.app/2026/03/22/test/
+https://vin-land.netlify.app/
